@@ -1,7 +1,5 @@
 # HangMan
-Implement the popular
-Hangman
-game. Add a full fledged game flow with a mainmenu and optionally some cool graphics
+Implement the popular Hangman game. Add a full fledged game flow with a mainmenu and optionally some cool graphics
 in the console!
 
 Hangman game
